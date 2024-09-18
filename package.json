@@ -15,7 +15,7 @@
     "lucide": "^0.412.0",
     "lucide-react": "^0.412.0",
     "mongoose": "^8.5.1",
-    "next": "14.2.5",
+    "next": "14.2.10",
     "next-app-session": "^1.0.7",
     "nylas": "^7.5.2",
     "react": "^18",
